@@ -1,4 +1,4 @@
-![image](./deverbbanner.png)
+![image](./bannerdeverb.png)
 
 One Place, Your Production.
 
